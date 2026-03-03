@@ -1,6 +1,7 @@
 # 🔥 PINN — Inverse Heat Source Identification
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaximeAuger/pinn-inverse-heat/blob/main/notebooks/01_inverse_1D_colab.ipynb)
+[![Open In Colab V5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaximeAuger/pinn-inverse-heat/blob/main/notebooks/01_inverse_1D_colab_v5.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
