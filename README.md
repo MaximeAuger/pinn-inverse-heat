@@ -66,7 +66,7 @@ pinn-inverse-heat/
 ## Quickstart
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pinn-inverse-heat
+git clone https://github.com/MaximeAuger/pinn-inverse-heat
 cd pinn-inverse-heat
 conda env create -f environment.yml
 conda activate pinn-heat
