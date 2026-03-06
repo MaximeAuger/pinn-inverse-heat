@@ -1,8 +1,6 @@
 # 🔥 PINN — Inverse Heat Source Identification
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaximeAuger/pinn-inverse-heat/blob/main/notebooks/01_inverse_1D_colab.ipynb)
-[![Colab V9](https://img.shields.io/badge/Colab%20V9-purple?logo=googlecolab)](https://colab.research.google.com/github/MaximeAuger/pinn-inverse-heat/blob/main/notebooks/01_inverse_1D_colab_v9.ipynb)
-[![Colab V10](https://img.shields.io/badge/Colab%20V10-yellow?logo=googlecolab)](https://colab.research.google.com/github/MaximeAuger/pinn-inverse-heat/blob/main/notebooks/01_inverse_1D_colab_v10.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaximeAuger/pinn-inverse-heat/blob/main/notebooks/vpinn_inverse_article_benchmark.ipynb)
 [![Colab V11](https://img.shields.io/badge/Colab%20V11-pink?logo=googlecolab)](https://colab.research.google.com/github/MaximeAuger/pinn-inverse-heat/blob/main/notebooks/01_inverse_1D_colab_v11.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange)
