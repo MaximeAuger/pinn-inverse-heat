@@ -1,7 +1,7 @@
 # 🔥 VPINN — Inverse Heat Source Identification
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaximeAuger/pinn-inverse-heat/blob/main/notebooks/vpinn_inverse_article_benchmark.ipynb)
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-pink)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
