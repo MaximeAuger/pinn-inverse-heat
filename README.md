@@ -90,8 +90,7 @@ $$
 Using the weak formulation:
 
 $$
-\int_0^1 T'(x)\phi_k'(x) dx
-=
+\int_0^1 T'(x)\phi_k'(x) dx =
 \int_0^1 f(x)\phi_k(x) dx
 $$
 
