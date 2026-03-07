@@ -31,7 +31,7 @@ $$
 T^{obs}_i = T(x_i) + \epsilon_i
 $$
 
-where \( \epsilon_i \) represents measurement noise.
+where $$\( \epsilon_i \)$$ represents measurement noise.
 
 ### Objective
 
@@ -41,7 +41,7 @@ $$
 f(x)
 $$
 
-using only the observations \(T^{obs}\).
+using only the observations $$\(T^{obs}\)$$.
 
 ---
 
