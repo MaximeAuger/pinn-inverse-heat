@@ -302,7 +302,6 @@ results_vpinn_inverse_1d_article/
 pinn-inverse-heat/
 ├── README.md
 ├── notebooks/
-│   ├── 01_inverse_1D_colab_v11.ipynb
 │   └── vpinn_inverse_article_benchmark.ipynb
 ├── results_vpinn_inverse_1d_article/
 │   ├── figures/
