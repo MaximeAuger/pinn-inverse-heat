@@ -93,7 +93,7 @@ $$
 \int_0^1 f(x)\phi_k(x) dx
 $$
 
-which yields a linear system for the coefficients \(a_k\).
+which yields a linear system for the coefficients $$\(a_k\)$$.
 
 A **ridge regularization** stabilizes the inversion.
 
